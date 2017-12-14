@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Another test 
+=======
+kjahsdhkajsd kasjdkl 
+aksjdlk
+>>>>>>> 41b14242e5ac170b1638fe38e555fabcacb4b948
